@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://calldirectorai.github.io/rodriguedossouvi/sitemap.xml
+Sitemap: https://rodriguedossouvi.com/sitemap.xml
